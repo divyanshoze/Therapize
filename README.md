@@ -3,7 +3,7 @@
 **Libraries imported:**
 
 1. For implementing bag_of_words approach:
-       import random           #for random generation
+       import random          #for random generation
        import import_ipynb    #if you are going to use multiple ipynb files to call in other
        import json            #reading/writing json files 
        import torch   
