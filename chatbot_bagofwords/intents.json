@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey there, Welcome to Therapize :)",
+        "Hello, Welcome to Therapize :)",
+        "Hi there, what can I do for you? :)",
+        "Hi there, how can I help? :)"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+          "Bye", 
+          "See you later",
+          "Goodbye",
+          "Buh-Bye",
+          "Goodnight"
+        ],
+      "responses": [
+          "See you later, thanks for visiting Therapize",
+          "Have a nice day :)",
+          "Bye! Come back again soon :)",
+          "Hope we were of any help, see you soon!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thank's a lot!",
+        "Cheers"
+      ],
+      "responses": [
+        "Happy to help :)",
+         "Any time :)", 
+         "My pleasure :)", 
+         "Glad we could be of some help :)"
+        ]
+
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "What is Therapize about?",
+        "What does therapize provide?",
+        "Who are you, what do you do?",
+        "Who am I talking to, who are you"
+      ],
+      "responses": [
+        "Therapize aims to provide people with ease and comfort. We are here to listen to you, not lecture you.",
+        "Therapize is a friend whom you can trust, share when nobody is there to listen to you, get your load off",
+        "Therapize is that special friend you can count on at anytime of the day, share your deepest troubles and have someone to listen to you without no judgement. We understand there's no right or wrong in the world, there are choices made. We are here to help."
+      ]
+    },
+    {
+      "tag": "Anxiety",
+      "patterns": [
+        "What is Anxiety",
+        "How do I know if I have anxiety disorder",
+        "How would I know when to visit a therapist for help for my anxiety",
+        "Is anxiety normal, what is the line where you should go seek help"
+      ],
+      "responses": [
+        "Everyone has feelings of anxiety at some point in their life. For example, you may feel worried and anxious about sitting an exam, or having a medical test or job interview. During times like these, being anxious is completely normal, But for some people it's difficult to come out of that state, it takes them weaks or months to feeling relaxed again. They lose control over such worries and it starts to affect their daily lives, that's when you should seek help, try to talk to your loved ones and seek help from a certified doctor",
+        "Occasional anxiety is a normal part of life. Many people worry about things such as health, money, or family problems. But anxiety disorders involve more than temporary worry or fear. For people with an anxiety disorder, the anxiety does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships","Anxiety is a normal and often healthy emotion. However, when a person regularly feels disproportionate levels of anxiety, it might become a medical disorder. That is when you should consult a doctor and get help"
+      ]
+    },
+    {
+      "tag": "Depression",
+      "patterns": [
+        "How do I know if I'm depressed",
+        "What is depression, how to know if you're depressed",
+        "What are the symptoms to depression",
+        "What is depression, How does it affect people",
+        "How is depression affecting my daily life routine"
+      ],
+      "responses": [
+        "Depression is more than simply feeling unhappy or fed up for a few days. It is the persistent feeling of feeling down for weeks or months or even years, Depression affects people in different ways and can cause a wide variety of symptoms.",
+        "Depression affects people in different ways and cause a wide variety of symptoms, They range from lasting feelings of unhappiness and hopelessness, to losing interest in the things you used to enjoy and feeling very tearful. Many people with depression also have symptoms of anxiety.", "The symptoms of depression range from mild to severe. At its mildest, you may simply feel persistently low in spirit, while severe depression can make you feel suicidal, that life is no longer worth living. The sooner you see a doctor when experiencing such symptoms, the faster you make a recovery."
+      ]
+    },
+    {
+      "tag": "shame",
+      "patterns": [
+        "Should I be ashamed of having mental illness",
+        "Should I be ashamed of having anxiety or being depressed",
+        "I am embarrassed of talking about my anxiety symptoms to people around me",
+        "Am I weak, does mental illness happen to people who have weak mental strength",
+        "Does having mental illness make me weak"
+      ],
+      "responses": [
+        "Some people think depression is trivial and not a genuine health condition. They're wrong – it is a real illness with real symptoms. Depression is not a sign of weakness or something you can snap out of by pulling yourself together. It's completely normal to seek help when you are having troubles in your daily life routine, We repeat, it's completely normal.",
+        "It's normal for people to go for a doctor's appointment when any other part of their body has some difficulty, you take a few days off, or probably a week off within guidance, and you are good to go, right? So why not seek help for mental difficulties? It's even more unhealthy to keep everything inside and resist the problems inside. It's fine to talk about it to your loved ones, this doesn't define you, you are not weak.",
+        "You are not alone, everybody goes through some or the other problem in their lives, open up, you'll surprise yourself with how many like-minded people can help you with it. We are here for you too, always :)"
+      ]
+    },
+          
+          {
+          "tag": "cure",
+          "patterns": [
+          "What should I do about my anxiety, depression",
+          "What should I do about my symptoms for anxiety and depression",
+          "What's the cure to such anxiety/depressionsymptoms"
+          ],
+          "responses": [
+              "Talking therapies, such as cognitive behavioural therapy (CBT), are often used for mild depression that is not improving, Antidepressants are also sometimes prescribed if it's moderate or severe depression case.",
+              "General anxious symptoms can be made better by engaging in physical activities, talking to a trusted friend about your thoughts, stop smoking if you do, not use any substance to override anxiety. In some cases, CBT or even antidepressants can be prescribed based on the level of symptoms",
+              "With treatment, many people are able to control their anxiety levels. But some treatments may need to be continued for a long time and there may be periods when your symptoms worsen. But the sooner you consult a doctor for help, the faster you be on the path to recovery :)"
+          ]
+          }
+        ]
+}
+
+
+
+
+
