@@ -1,4 +1,4 @@
-# therapize
+# Therapize
 
 **Approaches:**
 
